@@ -1,0 +1,10 @@
+{"message":"Bookmark title is required","level":"error"}
+{"message":"Bookmark with id 3f236d35-a919-4c10-8e58-be57071c101f created","level":"info"}
+{"message":"Bookmark with id fb61185e-2b5e-48a2-8e37-dd961e234e4e created","level":"info"}
+{"message":"Bookmark rating passed in was not a number and could not be coerced into a number","level":"error"}
+{"message":"Bookmark rating passed in was not a number and could not be coerced into a number","level":"error"}
+{"message":"Bookmark with id 0b7cb8c2-4c59-4ae8-8a2a-3cdaca0713dc created","level":"info"}
+{"message":"Bookmark with id 38a0a45d-fbd9-448f-8cda-9f6ab7b0603f created","level":"info"}
+{"message":"Bookmark with id b2bd8bb9-6370-4dff-a9f6-56b42898aa61 created","level":"info"}
+{"message":"Bookmark with id b2bd8bb9-6370-4dff-a9f6-56b42898aa61 deleted.","level":"info"}
+{"message":"Bookmark with id b2bd8bb9-6370-4dff-a9f6-56b42898aa61 not found.","level":"error"}
